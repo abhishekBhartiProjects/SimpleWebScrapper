@@ -1,6 +1,11 @@
 # SimpleWebScrapper
 Scrap title of any website through a simple python code
 
+## Library used
+- [bs4 - BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- requests
+- lxml
+
 ## Code
 import requests
 
